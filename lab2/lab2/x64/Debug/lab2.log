@@ -1,0 +1,5 @@
+﻿  MassSort.cpp
+  lab2.cpp
+F:\Алгоритми та структури даних\lab2\lab2\lab2\lab2.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  lab2.vcxproj -> F:\Алгоритми та структури даних\lab2\lab2\x64\Debug\lab2.exe
