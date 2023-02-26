@@ -14,7 +14,7 @@ int main()
 
     while(true){
 
-    const auto N = 20;
+    const auto N = 10;
     int n = N;
     int m = 0;
     MassSort sort;
@@ -22,7 +22,7 @@ int main()
     int arr[N];
     for (int i = 0; i < N; i++)
     {
-        arr[i] = 1 + rand() % N;
+        arr[i] = 1 + rand() % N*15;
     }
 
     cout << "Не вiдсортований масив: ";
